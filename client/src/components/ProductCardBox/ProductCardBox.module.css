@@ -1,0 +1,15 @@
+.content_box {
+  display: flex;
+  flex-direction: column;
+}
+.content_cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.sort_box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
